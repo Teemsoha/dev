@@ -10,9 +10,9 @@ services:
     autoDeploy: false
     envVars:
       - key: APP_ID
-        sync: 27455984
+        sync: false
       - key: API_HASH
-        sync: 62d5f68ce2e9189636967120220f5755
+        sync: false
       - key: STRING_SESSION
         sync: false
       - key: TG_BOT_TOKEN
